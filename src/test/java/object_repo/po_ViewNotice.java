@@ -38,12 +38,19 @@ public class po_ViewNotice {
 	WebElement notice_Main_Contact_Email;
 	
 	public String fetch_Title() {
-		String title=notice_Title.getText();
-		return title;
+		
+        String title=notice_Title.getText();
+        return title;
 	}
 	
     public String fetch_Reference_No() {
     	String referenceNo=notice_Reference_No.getText();
+    	try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return referenceNo;
 	}
 	public String fetch_OCID() {

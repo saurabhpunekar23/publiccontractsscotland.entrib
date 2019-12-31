@@ -10,7 +10,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
 
-public class Screenshorts {
+public class Screenshots {
 
 		 public static String TakeScreenShot(WebDriver driver , String refNumber)  {
 

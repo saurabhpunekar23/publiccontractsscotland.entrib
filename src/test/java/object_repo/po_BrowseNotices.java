@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import utility.Screenshorts;
+import utility.Screenshots;
 
 public class po_BrowseNotices {
 	
