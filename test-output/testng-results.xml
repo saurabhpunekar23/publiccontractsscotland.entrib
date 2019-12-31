@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser invoke and open url https://www.publiccontractsscotland.gov.uk/]]>
+    </line>
+    <line>
+      <![CDATA[LogIn Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375458]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375455]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375193]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC373858]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP366757]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=JAN307678]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT260873]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC229636]]>
+    </line>
+    <line>
+      <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[Driver Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150247" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150247" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+      <class name="test.TC_Publiccontracts">
+        <test-method status="PASS" signature="createE2E()[pri:0, instance:test.TC_Publiccontracts@2a5ca609]" name="createE2E" duration-ms="150227" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser invoke and open url https://www.publiccontractsscotland.gov.uk/]]>
+            </line>
+            <line>
+              <![CDATA[LogIn Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375458]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375455]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375193]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC373858]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP366757]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=JAN307678]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT260873]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC229636]]>
+            </line>
+            <line>
+              <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[Driver Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createE2E -->
+      </class> <!-- test.TC_Publiccontracts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
