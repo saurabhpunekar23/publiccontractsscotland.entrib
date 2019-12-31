@@ -113,12 +113,12 @@
       <![CDATA[Driver Closed]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="150435" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
+  <suite name="Default suite" duration-ms="158273" started-at="2019-12-31T08:02:33Z" finished-at="2019-12-31T08:05:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="150435" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
+    <test name="Default test" duration-ms="158273" started-at="2019-12-31T08:02:33Z" finished-at="2019-12-31T08:05:12Z">
       <class name="test.TC_Publiccontracts">
-        <test-method status="PASS" signature="createE2E()[pri:0, instance:test.TC_Publiccontracts@2a5ca609]" name="createE2E" duration-ms="150408" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
+        <test-method status="PASS" signature="createE2E()[pri:0, instance:test.TC_Publiccontracts@2a5ca609]" name="createE2E" duration-ms="158245" started-at="2019-12-31T08:02:33Z" finished-at="2019-12-31T08:05:12Z">
           <reporter-output>
             <line>
               <![CDATA[Browser invoke and open url https://www.publiccontractsscotland.gov.uk/]]>

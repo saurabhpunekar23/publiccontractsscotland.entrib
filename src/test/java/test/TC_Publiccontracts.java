@@ -71,7 +71,7 @@ try {
 	Reporter.log("Succesfully combines all xml in single file");
 } catch (IOException e) {
 	
-e.printStackTrace();
+	e.printStackTrace();
 }
 BrowserManager.closedDriver(driver);
 }
