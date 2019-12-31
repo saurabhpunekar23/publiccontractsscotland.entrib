@@ -51,6 +51,7 @@ Reporter.log("current url "+url);
 po_ViewNotice viewNotice=PageFactory.initElements(driver, po_ViewNotice.class);
 String refNumber=viewNotice.fetch_Reference_No();
 Screenshots.TakeScreenShot(driver, refNumber);
+Reporter.log("successfully capture all screenshots and stored in Screenshot folder");
 
 //7. extract the briefing, url of the posting and email id and place it into an xml in appropriate tagnames.
 String title=viewNotice.fetch_Title();
@@ -67,8 +68,9 @@ driver.navigate().back();
 //9. Export the xml as your final result
 try {
 	XmlCombiner.xmlscombine();
+	Reporter.log("Succesfully combines all xml in single file");
 } catch (IOException e) {
-// TODO Auto-generated catch block
+	
 e.printStackTrace();
 }
 BrowserManager.closedDriver(driver);

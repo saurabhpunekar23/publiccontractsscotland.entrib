@@ -11,10 +11,16 @@
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375458]]>
     </line>
     <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+    </line>
+    <line>
       <![CDATA[DONE]]>
     </line>
     <line>
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375455]]>
+    </line>
+    <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
     </line>
     <line>
       <![CDATA[DONE]]>
@@ -23,10 +29,16 @@
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375193]]>
     </line>
     <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+    </line>
+    <line>
       <![CDATA[DONE]]>
     </line>
     <line>
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC373858]]>
+    </line>
+    <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
     </line>
     <line>
       <![CDATA[DONE]]>
@@ -35,10 +47,16 @@
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP366757]]>
     </line>
     <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+    </line>
+    <line>
       <![CDATA[DONE]]>
     </line>
     <line>
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=JAN307678]]>
+    </line>
+    <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
     </line>
     <line>
       <![CDATA[DONE]]>
@@ -47,24 +65,60 @@
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT260873]]>
     </line>
     <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+    </line>
+    <line>
       <![CDATA[DONE]]>
     </line>
     <line>
       <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC229636]]>
     </line>
     <line>
+      <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+    </line>
+    <line>
       <![CDATA[DONE]]>
+    </line>
+    <line>
+      <![CDATA[Reading from DEC229636.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from DEC373858.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from DEC375193.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from DEC375455.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from DEC375458.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from JAN307678.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from OCT260873.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from SEP366757.xml]]>
+    </line>
+    <line>
+      <![CDATA[Reading from all files in directory XMLFiles Completed]]>
+    </line>
+    <line>
+      <![CDATA[Succesfully combines all xml in single file]]>
     </line>
     <line>
       <![CDATA[Driver Closed]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="150247" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+  <suite name="Default suite" duration-ms="150435" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="150247" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+    <test name="Default test" duration-ms="150435" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
       <class name="test.TC_Publiccontracts">
-        <test-method status="PASS" signature="createE2E()[pri:0, instance:test.TC_Publiccontracts@2a5ca609]" name="createE2E" duration-ms="150227" started-at="2019-12-31T06:18:09Z" finished-at="2019-12-31T06:20:39Z">
+        <test-method status="PASS" signature="createE2E()[pri:0, instance:test.TC_Publiccontracts@2a5ca609]" name="createE2E" duration-ms="150408" started-at="2019-12-31T07:33:24Z" finished-at="2019-12-31T07:35:55Z">
           <reporter-output>
             <line>
               <![CDATA[Browser invoke and open url https://www.publiccontractsscotland.gov.uk/]]>
@@ -76,10 +130,16 @@
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375458]]>
             </line>
             <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+            </line>
+            <line>
               <![CDATA[DONE]]>
             </line>
             <line>
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375455]]>
+            </line>
+            <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
             </line>
             <line>
               <![CDATA[DONE]]>
@@ -88,10 +148,16 @@
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC375193]]>
             </line>
             <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+            </line>
+            <line>
               <![CDATA[DONE]]>
             </line>
             <line>
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC373858]]>
+            </line>
+            <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
             </line>
             <line>
               <![CDATA[DONE]]>
@@ -100,10 +166,16 @@
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP366757]]>
             </line>
             <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+            </line>
+            <line>
               <![CDATA[DONE]]>
             </line>
             <line>
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=JAN307678]]>
+            </line>
+            <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
             </line>
             <line>
               <![CDATA[DONE]]>
@@ -112,13 +184,49 @@
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT260873]]>
             </line>
             <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+            </line>
+            <line>
               <![CDATA[DONE]]>
             </line>
             <line>
               <![CDATA[current url https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=DEC229636]]>
             </line>
             <line>
+              <![CDATA[successfully capture all screenshots and stored in Screenshot folder]]>
+            </line>
+            <line>
               <![CDATA[DONE]]>
+            </line>
+            <line>
+              <![CDATA[Reading from DEC229636.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from DEC373858.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from DEC375193.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from DEC375455.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from DEC375458.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from JAN307678.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from OCT260873.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from SEP366757.xml]]>
+            </line>
+            <line>
+              <![CDATA[Reading from all files in directory XMLFiles Completed]]>
+            </line>
+            <line>
+              <![CDATA[Succesfully combines all xml in single file]]>
             </line>
             <line>
               <![CDATA[Driver Closed]]>

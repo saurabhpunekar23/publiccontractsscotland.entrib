@@ -28,7 +28,7 @@ try {
 dBuilder = dbFactory.newDocumentBuilder();
 Document doc = dBuilder.newDocument();
 //add elements to Document
-Element rootElement = doc.createElementNS("https://www.publiccontractsscotland.gov.uk/", "Notices");
+Element rootElement = doc.createElementNS("https://www.publiccontractsscotland.gov.uk/", "Contracts");
 //append root element to document
 doc.appendChild(rootElement);
 

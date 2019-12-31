@@ -6,6 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+import org.testng.Reporter;
+
 public class XmlCombiner {
 	public static void xmlscombine() throws IOException  
     {
@@ -23,7 +25,7 @@ public class XmlCombiner {
         // loop for reading the contents of all the files  
         // in the directory GeeksForGeeks
         for (String fileName : fileNames) {
-            System.out.println("Reading from " + fileName);
+            Reporter.log("Reading from " + fileName);
  
             // create instance of file from Name of  
             // the file stored in string Array
@@ -43,7 +45,7 @@ public class XmlCombiner {
             }
             pw.flush();
         }
-        System.out.println("Reading from all files" +  
+        Reporter.log("Reading from all files" +  
         " in directory " + dir.getName() + " Completed");
     }
 } 
